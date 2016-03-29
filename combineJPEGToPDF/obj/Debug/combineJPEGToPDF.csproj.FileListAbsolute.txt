@@ -1,0 +1,13 @@
+C:\git\AutoArena\combineJPEGToPDF\combineJPEGToPDF\bin\Debug\combineJPEGToPDF.exe.config
+C:\git\AutoArena\combineJPEGToPDF\combineJPEGToPDF\bin\Debug\combineJPEGToPDF.exe
+C:\git\AutoArena\combineJPEGToPDF\combineJPEGToPDF\bin\Debug\combineJPEGToPDF.pdb
+C:\git\AutoArena\combineJPEGToPDF\combineJPEGToPDF\bin\Debug\iTextSharp.dll
+C:\git\AutoArena\combineJPEGToPDF\combineJPEGToPDF\obj\Debug\combineJPEGToPDF.exe
+C:\git\AutoArena\combineJPEGToPDF\combineJPEGToPDF\obj\Debug\combineJPEGToPDF.pdb
+C:\git\AutoArena\combineJPEGToPDF\combineJPEGToPDF\obj\Debug\combineJPEGToPDF.csprojResolveAssemblyReference.cache
+C:\git\combineJPEGToPDF\combineJPEGToPDF\bin\Debug\combineJPEGToPDF.exe.config
+C:\git\combineJPEGToPDF\combineJPEGToPDF\obj\Debug\combineJPEGToPDF.exe
+C:\git\combineJPEGToPDF\combineJPEGToPDF\obj\Debug\combineJPEGToPDF.pdb
+C:\git\MultiJPEGtoSinglePDF\combineJPEGToPDF\bin\Debug\combineJPEGToPDF.exe.config
+C:\git\MultiJPEGtoSinglePDF\combineJPEGToPDF\obj\Debug\combineJPEGToPDF.exe
+C:\git\MultiJPEGtoSinglePDF\combineJPEGToPDF\obj\Debug\combineJPEGToPDF.pdb
