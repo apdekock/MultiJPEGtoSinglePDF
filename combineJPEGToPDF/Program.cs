@@ -1,8 +1,10 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
+using System.Collections;
 using iTextSharp.text;
 using iTextSharp.text.pdf;
+using System.Collections.Generic;
 
 namespace combineJPEGToPDF
 {
@@ -24,13 +26,18 @@ namespace combineJPEGToPDF
 
                 string Folder = args[0];
                 Console.WriteLine(Folder);
-                foreach (string F in Directory.GetFiles(Folder, "*.jpg").OrderBy(y => y))
+                var orderedFiles = new SortedDictionary<int, string>();
+                foreach (var item in Directory.GetFiles(Folder, "*.jpg"))
                 {
-                    Console.WriteLine(F);
+                    orderedFiles.Add(Convert.ToInt32(string.Join("", item.ToCharArray().Where(Char.IsDigit))), item);
+                }
+                foreach (string fileName in orderedFiles.Values)
+                {
+                    Console.WriteLine(fileName);
                     //Insert a page
                     Doc.NewPage();
                     //Add image
-                    var element = new Jpeg(new Uri(new FileInfo(F).FullName));
+                    var element = new Jpeg(new Uri(new FileInfo(fileName).FullName));
                     element.ScaleToFit(600, 1200);
                     Doc.Add(element);
                 }

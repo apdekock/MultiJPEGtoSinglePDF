@@ -11,3 +11,7 @@ C:\git\combineJPEGToPDF\combineJPEGToPDF\obj\Debug\combineJPEGToPDF.pdb
 C:\git\MultiJPEGtoSinglePDF\combineJPEGToPDF\bin\Debug\combineJPEGToPDF.exe.config
 C:\git\MultiJPEGtoSinglePDF\combineJPEGToPDF\obj\Debug\combineJPEGToPDF.exe
 C:\git\MultiJPEGtoSinglePDF\combineJPEGToPDF\obj\Debug\combineJPEGToPDF.pdb
+C:\git\MultiJPEGtoSinglePDF\combineJPEGToPDF\bin\Debug\combineJPEGToPDF.exe
+C:\git\MultiJPEGtoSinglePDF\combineJPEGToPDF\bin\Debug\combineJPEGToPDF.pdb
+C:\git\MultiJPEGtoSinglePDF\combineJPEGToPDF\bin\Debug\iTextSharp.dll
+C:\git\MultiJPEGtoSinglePDF\combineJPEGToPDF\obj\Debug\combineJPEGToPDF.csprojResolveAssemblyReference.cache
